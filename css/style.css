@@ -1,0 +1,12 @@
+body {
+    background-image: url("bg-img.jpg");
+}
+
+.Card {
+    margin-top: 25vh;
+
+}
+button {
+    background-color: rgba(254, 254, 254, 0);
+    border-color: rgba(240, 248, 255, 0);
+}
